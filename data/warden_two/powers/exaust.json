@@ -1,0 +1,6 @@
+{
+   "type": "origins:exhaust",
+   "interval": 120,
+   "exhaustion": 10,
+   "hidden": true
+}

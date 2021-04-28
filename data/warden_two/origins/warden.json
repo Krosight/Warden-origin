@@ -1,0 +1,22 @@
+{
+	"powers": [
+       "origins:carnivore",
+	"origins:strong_arms",
+        "warden_two:sped",
+	"warden_two:more_healt",
+	"warden_two:sound_sense",
+        "warden_two:strength",
+	"warden_two:less_speed",
+	"warden_two:more_damage",
+	"warden_two:kbresist",
+	"warden_two:bigboi",
+        "warden_two:blindman",
+	"warden_two:cavespawn",
+        "warden_two:exaust"
+	],
+	"icon": "minecraft:netherite_ingot",
+	"order": 2,
+	"impact": 3,
+	"name": "Warden",
+	"description": "You are a embodiment of a once mistycal creature, know as the warden §kE  §5By Krosight  §kE"
+}

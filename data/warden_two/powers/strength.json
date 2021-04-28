@@ -1,0 +1,21 @@
+{
+  "type": "origins:active_self",
+     "key": {
+     "key": "key.origins.secondary_active"
+    }, 
+  "entity_action": {
+    "type": "origins:apply_effect",
+    "effect": {
+      "effect": "minecraft:strength",
+      "duration": 250,
+      "amplifier": 10
+    }
+  },
+  "cooldown": 600,
+  "name": "Soul Strength [Secondary]",
+  "description": "You can harness the power of the souls inside of you to gain a short amount of artificial strength",
+  "hud_render": {
+    "should_render": true,
+    "bar_index": 3
+  }
+}

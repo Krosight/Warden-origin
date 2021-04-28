@@ -1,0 +1,16 @@
+{
+  "type": "origins:stacking_status_effect",
+   "min_stacks": 0,
+   "max_stacks": 5,
+   "duration_per_stack": 10,
+   "effect": {
+       "effect": "minecraft:blindness",
+       "duration": 1,
+       "amplifier": 0.5,
+       "is_ambient": true,
+       "show_particles": false,
+       "show_icon": false
+   },
+   "name": "Tunnel Vision",
+   "description": "Due to living in a cave all your life, you've gone blind to everything around you."
+}
