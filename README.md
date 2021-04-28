@@ -1,4 +1,4 @@
 # Warden-origin
 This is a datapack for the origins mod
 
-desciptions written by Kib The Crafter
+descriptions written by Kib The Crafter
