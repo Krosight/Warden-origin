@@ -3,6 +3,10 @@
    "min_stacks": 0,
    "max_stacks": 5,
    "duration_per_stack": 10,
+  "condition": {
+    "type": "origins:exposed_to_sun",
+    "inverted": "false"
+  }
    "effect": {
        "effect": "minecraft:blindness",
        "duration": 1,
